@@ -1,0 +1,24 @@
+{
+  "name": "filmselectionpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GudiniSecret/filmSelectionPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GudiniSecret/filmSelectionPage/issues"
+  },
+  "homepage": "https://github.com/GudiniSecret/filmSelectionPage#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

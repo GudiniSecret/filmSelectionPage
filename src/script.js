@@ -14,7 +14,7 @@ function returnMovies(url) {
 
         console.log(data.Search);
         data.Search.forEach(element => {
-            
+
             const divCard = document.createElement('div');
             divCard.setAttribute('class', 'card');
 
